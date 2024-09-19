@@ -4,7 +4,6 @@ An overview of key learnings about history of Linux, it's distributions, and bas
 Linux is a powerful open-source OS which has become vital in several fields of computing, from embedded systems to servers.
 
 Section 1: Linux History
-
 Linux tracks its origins to the early of 1990s, as Linus Torvalds, a Finnish software engineer had created the so called "Linux kernel" that we know today.
 it was released in 1991, and was designed as a free, open-source alternative to proprietary of UNIX systems. The kernel was the foundation for a variety of distributions of the Linux distributions, every distributions offering different packages and features of the software.
 
@@ -15,7 +14,6 @@ Section 2: Linux Distributions
 A Linux distribution (distro) is a packaged version of the Linux operating system that includes the Linux kernel and a set of software tools. Each distribution is tailored to different needs and use cases.
 
 Popular distributions include:
-
 Ubuntu: User-friendly and widely used, ideal for beginners.
 Debian: Known for its stability and reliability.
 Fedora: Features cutting-edge technologies and is upstream for Red Hat Enterprise Linux.
@@ -38,4 +36,5 @@ These commands form the foundation of navigating and managing a Linux-based syst
 
 Conclusion
 
-Learning Linux is an essential skill for anyone pursuing a career in IT or software development. Its widespread use in servers, cloud platforms, and development environments makes it a critical tool. Mastering Linux commands and understanding its history and distributions provide a strong foundation for working with this powerful operating system.
+Learning Linux is an important skill today for anyone thinking pursuing a career in IT or the development domain of software. 
+Its widespread use in servers, cloud platforms, and development environments makes it a critical tool. 

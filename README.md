@@ -6,7 +6,7 @@ Linux is a powerful open-source OS which has become vital in several fields of c
 Section 1: Linux History
 
 Linux tracks its origins to the early of 1990s, as Linus Torvalds, a Finnish software engineer had created the so called "Linux kernel" that we know today.
-it was released in 1991, Linux was designed as a free and open-source alternative to proprietary UNIX systems. The kernel became the foundation for a variety of Linux distributions, each offering different software packages and features.
+it was released in 1991, and was designed as a free, open-source alternative to proprietary of UNIX systems. The kernel was the foundation for a variety of distributions of the Linux distributions, every distributions offering different packages and features of the software.
 
 Over the years, Linux has evolved into one of the most widely used operating systems, especially in the fields of servers, cloud computing, and supercomputing. Its flexibility, stability, and open-source nature have made it indispensable for modern computing infrastructures.
 

@@ -1,10 +1,12 @@
 Introduction
 
-This document provides an overview of key learnings about Linux, including its history, distributions, and basic commands. Linux is a powerful open-source operating system that has become essential in various fields of computing, from servers to embedded systems.
+An overview of key learnings about history of Linux, it's distributions, and basic commands. 
+Linux is a powerful open-source OS which has become vital in several fields of computing, from embedded systems to servers.
 
 Section 1: Linux History
 
-Linux traces its origins to the early 1990s, when Linus Torvalds, a Finnish software engineer, created the Linux kernel. Released in 1991, Linux was designed as a free and open-source alternative to proprietary UNIX systems. The kernel became the foundation for a variety of Linux distributions, each offering different software packages and features.
+Linux tracks its origins to the early of 1990s, as Linus Torvalds, a Finnish software engineer had created the so called "Linux kernel" that we know today.
+it was released in 1991, Linux was designed as a free and open-source alternative to proprietary UNIX systems. The kernel became the foundation for a variety of Linux distributions, each offering different software packages and features.
 
 Over the years, Linux has evolved into one of the most widely used operating systems, especially in the fields of servers, cloud computing, and supercomputing. Its flexibility, stability, and open-source nature have made it indispensable for modern computing infrastructures.
 
